@@ -1,0 +1,34 @@
+body {
+    font-family: 'Gotu', sans-serif;
+}
+header{
+    margin-top: 60px;
+}
+#testimonio {
+    background: #f1f1f1;
+    padding: 50px 0 3px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+#desarollo{
+    margin-top: 70px;
+
+}
+
+#cocteles{
+    background: #f1f1f1;
+    text-align: center;
+    margin-top: auto;
+    
+    
+}
+#carouselExampleIndicators {
+    margin-left: 100px;
+}
+
+footer{
+    margin-top: 90px;
+    background: url(../img/image2.png);
+}
+
+html{scroll-behavior:smooth}
